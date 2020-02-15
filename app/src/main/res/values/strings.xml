@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="contry_names">
+        <item>Bangladesha</item>
+        <item>Japan</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Bhutan</item>
+        <item>Barma</item>
+        <item>Sralanka</item>
+        <item>Pakhistan</item>
+        <item>Amereca</item>
+        <item>Ingland</item>
+        <item>Ingland</item>
+        <item>Afganistan</item>
+        <item>Qutar</item>
+        <item>Rasia</item>
+    </string-array>
+</resources>
